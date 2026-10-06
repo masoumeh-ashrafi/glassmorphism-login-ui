@@ -1,13 +1,18 @@
 # Glassmorphism Login Page ✨
 
-A modern glassmorphism login page built with pure HTML & CSS.
+A modern glassmorphism login page built with pure HTML, CSS and JavaScript.
 
-## 🚀 Features
+## 🚀 Preview
 
-- Glassmorphism UI
+![Glass Login Page](assets/screenshot.png)
+
+## ✨ Features
+
+- Modern Glassmorphism UI
+- Floating animated spheres
 - Responsive design
-- Animated floating background balls
-- Clean modern login form
+- Clean and minimal login form
+- Smooth visual effects
 
 ## 🛠 Technologies
 
@@ -15,12 +20,12 @@ A modern glassmorphism login page built with pure HTML & CSS.
 - CSS3
 - JavaScript
 
-## Preview
+## 🌐 Live Demo
 
-(Add screenshot here)
+https://masoumeh-ashrafi.github.io/glassmorphism-login-ui/
 
-## Author
+## 👩‍💻 Author
 
-Masoumeh Ashrafi
+**Masoumeh Ashrafi**
 
 Frontend Developer
